@@ -11,5 +11,17 @@ export type AmplifyDependentResourcesAttributes = {
             "AppClientIDWeb": "string",
             "AppClientID": "string"
         }
+    },
+    "interactions": {
+        "reactchatbot01": {
+            "Region": "string",
+            "BotName": "string",
+            "FunctionArn": "string"
+        },
+        "lexd3071039": {
+            "Region": "string",
+            "BotName": "string",
+            "FunctionArn": "string"
+        }
     }
 }

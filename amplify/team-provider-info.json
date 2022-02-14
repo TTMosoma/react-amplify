@@ -14,7 +14,18 @@
     "categories": {
       "auth": {
         "reactamplify741a52a7": {},
-        "reactamplify": {}
+        "reactamplify": {},
+        "true": {}
+      },
+      "interactions": {
+        "reactchatbot01": {
+          "deploymentBucketName": "amplify-amplify2344c8bedc424-staging-191824-deployment",
+          "s3Key": "amplify-builds/reactchatbot01-2b54374c6e69356c6342-build.zip"
+        },
+        "lexd3071039": {
+          "deploymentBucketName": "amplify-amplify2344c8bedc424-staging-191824-deployment",
+          "s3Key": "amplify-builds/lexd3071039-68373249766a39506f32-build.zip"
+        }
       }
     }
   }

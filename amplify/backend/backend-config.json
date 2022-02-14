@@ -33,5 +33,17 @@
         ]
       }
     }
+  },
+  "interactions": {
+    "reactchatbot01": {
+      "service": "Lex",
+      "providerPlugin": "awscloudformation",
+      "build": true
+    },
+    "lexd3071039": {
+      "service": "Lex",
+      "providerPlugin": "awscloudformation",
+      "build": true
+    }
   }
 }
